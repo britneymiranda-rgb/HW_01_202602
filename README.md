@@ -1,3 +1,5 @@
+Debido al peso del video de 9 minutos, no se pudo subir el archivo a este repositorio. El siguiente enlace dirige a la carpeta drive en la que se encuentra el video: https://drive.google.com/drive/folders/1hgkPN6s9rCE9iVCkmtLx5arySX8FaGGg?usp=sharing
+
 # HW1_PARTE1: RPA — Registro de Ingresos PeopleSync
 Bot en Python + Selenium que automatiza el registro de 50 empleados desde
 un dataset de Google Sheets hacia el formulario web PeopleSync HRIS,
