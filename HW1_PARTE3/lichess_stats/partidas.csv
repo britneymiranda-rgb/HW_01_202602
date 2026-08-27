@@ -1,0 +1,101 @@
+﻿ID_PARTIDA;FECHA;MODO_JUEGO;VARIANTE;CLASIFICADA;COLOR;RIVAL;RATING_USUARIO;RATING_RIVAL;DIFERENCIA_RATING;RESULTADO;ESTADO_FINAL;APERTURA
+M6SHE6Vp;2026-07-06 14:14:27.743;blitz;standard;True;negras;papaChazy;1776;1898;-4.0;derrota;resign;Queen's Pawn Game: Accelerated London System, Steinitz Countergambit
+noMeh0yc;2026-07-06 14:18:33.823;blitz;standard;True;negras;greg947;1772;1792;-6.0;derrota;resign;Sicilian Defense: Closed, Traditional
+N29gQXpR;2026-07-06 14:23:12.442;blitz;standard;True;blancas;JohnRackham;1766;1799;-7.0;derrota;resign;Scandinavian Defense: Icelandic-Palme Gambit
+orrpKlxN;2026-07-06 14:32:58.175;blitz;standard;True;negras;JohnRackham;1759;1804;-5.0;derrota;resign;Sicilian Defense: Open
+FdEfX4vg;2026-07-06 14:44:24.171;blitz;standard;True;blancas;JohnRackham;1754;1809;-6.0;derrota;resign;Sicilian Defense: Modern Variations, Main Line
+MZSB7qMb;2026-07-06 14:57:09.292;blitz;standard;True;negras;JohnRackham;1748;1814;-5.0;derrota;resign;Italian Game: Two Knights Defense, Knight Attack
+EYXMaFAq;2026-07-06 15:03:11.058;blitz;standard;True;blancas;jacktherussell;1743;1792;-5.0;derrota;resign;Sicilian Defense: Old Sicilian
+Q8J9NrmV;2026-07-06 15:05:03.815;blitz;standard;True;negras;jacktherussell;1738;1797;-5.0;derrota;resign;Benoni Defense: Old Benoni
+REOSodzS;2026-07-06 15:08:38.940;blitz;standard;True;blancas;jacktherussell;1733;1801;7.0;victoria;resign;Sicilian Defense: Old Sicilian
+3RMVdOq9;2026-07-08 06:09:32.097;blitz;standard;True;blancas;fr33GM;1740;1664;-7.0;derrota;resign;Sicilian Defense: Modern Variations, Main Line
+Y8gyA4Fs;2026-07-08 06:24:24.556;blitz;standard;True;negras;more25;1733;1667;-7.0;derrota;resign;Benoni Defense: Old Benoni
+aIaErY2l;2026-07-08 06:33:12.042;blitz;standard;True;blancas;more25;1726;1673;5.0;victoria;resign;Czech Defense
+TAeFNNCR;2026-07-08 06:37:53.052;blitz;standard;True;negras;more25;1731;1669;-7.0;derrota;mate;Blackmar-Diemer Gambit: Netherlands Variation
+ScB4zwFz;2026-07-08 06:51:26.305;blitz;standard;True;negras;MakiseKurisu204;1724;1755;-4.0;derrota;resign;Caro-Kann Defense: Exchange Variation
+1iYol2N5;2026-07-08 06:55:56.963;blitz;standard;True;blancas;Yuri-Kotov;1720;1863;-4.0;derrota;mate;French Defense: Marshall Gambit
+zYCYNvXq;2026-07-08 06:59:52.744;blitz;standard;True;blancas;yakhnenko37;1716;1757;6.0;victoria;resign;Caro-Kann Defense
+Z3xtP84n;2026-07-08 07:15:19.332;blitz;standard;True;negras;cmount13;1722;1724;-5.0;derrota;resign;Sicilian Defense: Grand Prix Attack
+6Oe2sbxw;2026-07-08 07:20:14.258;blitz;standard;True;blancas;kILLER67-Durlan;1717;1718;-6.0;derrota;mate;Sicilian Defense: Modern Variations
+3lpMPOFo;2026-07-08 07:24:34.094;blitz;standard;True;negras;kILLER67-Durlan;1711;1724;6.0;victoria;resign;Sicilian Defense: Open
+q4rAiHtJ;2026-07-08 08:41:57.375;blitz;standard;True;blancas;ShaimFaded;1717;1756;-5.0;derrota;mate;Sicilian Defense: Open
+m59UEj3u;2026-07-08 08:53:03.980;blitz;standard;True;negras;Kingmax94;1712;1813;7.0;victoria;resign;Sicilian Defense
+VSin3aa6;2026-07-08 09:13:16.529;blitz;standard;True;blancas;Zadohlik;1719;1720;-6.0;derrota;outoftime;Owen Defense
+DxexbWPZ;2026-07-08 09:27:44.725;blitz;standard;True;negras;emin-aydin;1713;1698;0.0;tablas;stalemate;Queen's Gambit Declined: Austrian Defense
+yFBSwY3z;2026-07-08 09:44:11.778;blitz;standard;True;negras;Okereke1;1713;1721;6.0;victoria;resign;Sicilian Defense: Open
+7vf6rpTR;2026-07-09 05:48:37.521;blitz;standard;True;blancas;timeless_chess97;1719;1676;5.0;victoria;resign;King's Gambit Declined: Queen's Knight Defense
+1TzZkpD4;2026-07-09 05:55:36.769;blitz;standard;True;negras;violacase;1724;1686;5.0;victoria;resign;Benoni Defense: Benoni Gambit Accepted
+WiZ3I84L;2026-07-09 11:07:04.935;blitz;standard;True;blancas;stampan;1729;1715;6.0;victoria;resign;King's Gambit
+OeUM1Rvx;2026-07-09 11:13:36.809;blitz;standard;True;blancas;mahmoudmajar;1735;1775;6.0;victoria;resign;King's Gambit Accepted: King's Knight's Gambit
+i0C9rZVq;2026-07-09 11:18:40.298;blitz;standard;True;negras;Ecolu;1741;1750;6.0;victoria;resign;Benoni Defense: Old Benoni
+tGLHTuPm;2026-07-09 11:32:12.007;blitz;standard;True;blancas;Egor_Kiselev;1747;1656;-7.0;derrota;resign;Sicilian Defense: Old Sicilian
+Gz95meKi;2026-07-09 11:42:55.749;blitz;standard;True;negras;Egor_Kiselev;1740;1663;-7.0;derrota;mate;Sicilian Defense: Modern Variations
+OEXH8rxP;2026-07-09 11:53:40.170;blitz;standard;True;negras;vivik811;1733;1689;-6.0;derrota;resign;Queen's Pawn Game: Chigorin Variation
+hvCCgwWv;2026-07-09 12:04:25.920;blitz;standard;True;blancas;vivik811;1727;1696;5.0;victoria;resign;Scandinavian Defense: Valencian Variation
+RtBWdHJ4;2026-07-09 12:29:30.688;blitz;standard;True;blancas;elod72;1732;1763;6.0;victoria;mate;King's Gambit Accepted: Fischer Defense
+FonYqZno;2026-07-09 12:41:03.183;blitz;standard;True;blancas;orphee83;1738;1751;-6.0;derrota;resign;French Defense: Exchange Variation
+Z1k95lW9;2026-07-09 12:46:26.215;blitz;standard;True;negras;hormigaasesina;1732;1731;6.0;victoria;outoftime;Benoni Defense: Old Benoni
+YR0AVLSs;2026-07-09 12:59:54.566;blitz;standard;True;negras;raviindia19;1738;1695;-6.0;derrota;resign;Van't Kruijs Opening
+UpfnApAY;2026-07-09 13:13:14.069;blitz;standard;True;blancas;raviindia19;1732;1702;-7.0;derrota;resign;French Defense: Normal Variation
+JQB4sVYm;2026-07-09 13:17:44.156;blitz;standard;True;negras;raviindia19;1725;1708;-5.0;derrota;resign;Van't Kruijs Opening
+xRpxszB5;2026-07-09 13:22:52.686;blitz;standard;True;blancas;raviindia19;1720;1714;5.0;victoria;resign;Hungarian Opening
+jZ69XmPp;2026-07-09 13:25:14.828;blitz;standard;True;negras;raviindia19;1725;1708;-6.0;derrota;mate;Van't Kruijs Opening
+wdfSXdxm;2026-07-09 13:30:09.023;blitz;standard;True;blancas;raviindia19;1719;1714;6.0;victoria;resign;Hungarian Opening
+t4Cj0cVl;2026-07-09 13:38:05.780;blitz;standard;True;negras;raviindia19;1725;1709;5.0;victoria;resign;Van't Kruijs Opening
+0g0EJa9L;2026-07-09 16:00:02.368;blitz;standard;True;negras;Fran_ADK;1730;1836;-3.0;derrota;outoftime;Benoni Defense: Hromádka System
+mmzlTdJD;2026-07-09 16:12:28.655;blitz;standard;True;blancas;Jeanbl;1727;1640;-8.0;derrota;mate;King's Gambit
+GkH7m8wB;2026-07-09 16:24:15.470;blitz;standard;True;blancas;unix56;1719;1724;-5.0;derrota;resign;King's Gambit Accepted: Abbazia Defense
+7h0scBkr;2026-07-09 16:26:27.454;blitz;standard;True;blancas;mehmet123555;1714;1762;-6.0;derrota;resign;King's Gambit Declined: Keene Defense
+FPTNu51B;2026-07-09 16:29:15.811;blitz;standard;True;negras;mehmet123555;1708;1767;7.0;victoria;resign;Sicilian Defense: Alapin Variation
+XQJPV6c9;2026-07-09 16:37:29.778;blitz;standard;True;blancas;jjformen;1715;1830;-4.0;derrota;mate;Sicilian Defense: Modern Variations, Main Line
+2TqtEx9O;2026-07-09 17:01:18.143;blitz;standard;True;negras;Emamord;1711;1744;7.0;victoria;resign;Sicilian Defense: Nyezhmetdinov-Rossolimo Attack
+DwWo274p;2026-07-09 17:11:59.461;blitz;standard;True;negras;oilplank;1718;1684;5.0;victoria;outoftime;Sicilian Defense: Old Sicilian
+cJzhaBtK;2026-07-10 06:36:59.340;blitz;standard;True;blancas;kawserten2_0;1723;1734;6.0;victoria;resign;Sicilian Defense: Accelerated Dragon
+2zmIKfUx;2026-07-10 08:50:26.406;blitz;standard;True;negras;sufiyana;1729;1668;-7.0;derrota;resign;Sicilian Defense: Open
+MqxM4pox;2026-07-10 08:55:49.891;blitz;standard;True;blancas;fabioticcio;1722;1726;-6.0;derrota;resign;Sicilian Defense: Old Sicilian
+WsxjHDoX;2026-07-10 09:13:41.873;blitz;standard;True;negras;fabioticcio;1716;1732;7.0;victoria;resign;Sicilian Defense
+WjYUYgx6;2026-07-10 14:23:16.704;blitz;standard;True;blancas;SARINA139;1723;1697;5.0;victoria;mate;French Defense: La Bourdonnais Variation
+tzgGqP6e;2026-07-10 14:49:44.069;blitz;standard;True;negras;lasker_e;1728;1748;6.0;victoria;resign;Sicilian Defense: Grand Prix Attack
+SV4ohil3;2026-07-10 15:00:24.372;blitz;standard;True;blancas;perokvrzica;1734;1681;5.0;victoria;resign;French Defense: Horwitz Attack
+RB5YVqqk;2026-07-10 15:05:53.519;blitz;standard;True;blancas;Abbhi;1739;1830;-5.0;derrota;resign;King's Gambit Declined: Queen's Knight Defense
+1VGkG0rJ;2026-07-10 15:17:43.090;blitz;standard;True;blancas;CoolMD48;1734;1692;-6.0;derrota;resign;Scandinavian Defense: Main Line
+ontmAe7n;2026-07-10 15:29:43.334;blitz;standard;True;negras;Selimnas;1728;1754;-6.0;derrota;outoftime;Slav Defense
+EibPRYvJ;2026-07-10 15:41:59.688;blitz;standard;True;negras;MartelAlex;1722;1652;0.0;tablas;draw;Queen's Pawn Game: Chigorin Variation
+VpSiVqKX;2026-07-10 15:53:44.785;blitz;standard;True;blancas;Rhapsode;1722;1699;-7.0;derrota;outoftime;Caro-Kann Defense: Advance Variation
+LIIqcc46;2026-07-10 16:08:25.172;blitz;standard;True;negras;tecgee;1715;1755;7.0;victoria;resign;Sicilian Defense: Alapin Variation
+jSRQQO00;2026-07-10 16:20:49.335;rapid;standard;True;blancas;S1neWav;1814;1744;-12.0;derrota;resign;Caro-Kann Defense: Two Knights Attack
+5lL85jGM;2026-07-11 10:51:26.896;blitz;standard;True;negras;Gabow00;1722;1632;4.0;victoria;resign;Benoni Defense: Cormorant Gambit
+HkTxf7hr;2026-07-12 11:01:57.216;blitz;standard;True;blancas;ViktorGrishkin51;1726;1697;-6.0;derrota;resign;King's Gambit Accepted: Fischer Defense
+GzAgXwXs;2026-07-12 11:51:46.424;blitz;standard;True;blancas;Nd5check;1720;1682;-7.0;derrota;resign;Sicilian Defense: Open
+jB1QDNRL;2026-07-12 12:01:34.244;blitz;standard;True;negras;Nd5check;1713;1689;-5.0;derrota;resign;Benoni Defense: Hromádka System
+nf4ht1j9;2026-07-12 12:05:48.706;blitz;standard;True;blancas;Nd5check;1708;1695;-1.0;tablas;draw;King's Gambit Accepted: King's Knight's Gambit
+pHgWrSPx;2026-07-12 12:21:33.986;blitz;standard;True;negras;Nd5check;1707;1695;-5.0;derrota;resign;Sicilian Defense: Open
+R0rDyx5x;2026-07-12 12:32:11.822;blitz;standard;True;negras;thiagocarazza;1702;1700;5.0;victoria;resign;Sicilian Defense: Old Sicilian
+sQf2ACIF;2026-07-12 12:45:04.583;blitz;standard;True;blancas;pymedi;1707;1715;-5.0;derrota;resign;Sicilian Defense: Löwenthal Variation
+Md0H1BWE;2026-07-12 12:53:04.039;blitz;standard;True;negras;b8g8noob;1702;1831;8.0;victoria;resign;Sicilian Defense: Old Sicilian
+NkMQXqZf;2026-07-12 13:01:03.431;blitz;standard;True;blancas;entropi;1710;1757;-6.0;derrota;resign;Caro-Kann Defense: Two Knights Attack
+BqkNfmi9;2026-07-12 13:11:57.738;blitz;standard;True;negras;spasski76;1704;1725;7.0;victoria;resign;Sicilian Defense: Smith-Morra Gambit Accepted
+9W5oVM2M;2026-07-12 13:15:36.671;blitz;standard;True;blancas;Emilia_Smal;1711;1668;-7.0;derrota;resign;King's Gambit Accepted: Fischer Defense
+3PV9zOuv;2026-07-12 13:21:35.902;blitz;standard;True;blancas;nayaksurjit;1704;1764;-5.0;derrota;resign;Caro-Kann Defense: Exchange Variation
+2xECBqBn;2026-07-12 13:24:15.704;blitz;standard;True;negras;Thrillicy;1699;1732;7.0;victoria;resign;Sicilian Defense: Alapin Variation
+NwdlDOSl;2026-07-12 13:26:10.635;blitz;standard;True;negras;Bambino23;1706;1711;5.0;victoria;resign;Sicilian Defense: Open
+K5mYMlHZ;2026-07-12 13:31:50.850;blitz;standard;True;blancas;nicogar1;1711;1715;-5.0;derrota;resign;Sicilian Defense: Löwenthal Variation
+l0yTXR6D;2026-07-12 13:38:13.433;blitz;standard;True;negras;nicogar1;1706;1721;6.0;victoria;mate;English Opening: King's English Variation, Two Knights Variation
+lBxUMqSa;2026-07-13 08:42:15.728;blitz;standard;True;blancas;jiskra;1712;1658;-1.0;tablas;draw;Scandinavian Defense: Modern Variation
+uR9EmcKb;2026-07-13 08:58:46.302;blitz;standard;True;negras;jiskra;1711;1659;5.0;victoria;resign;Benoni Defense: Old Benoni
+DPQzHZ14;2026-07-13 09:09:48.420;blitz;standard;True;blancas;MiCaracol;1716;1758;6.0;victoria;resign;King's Gambit Accepted: King's Knight's Gambit
+Pp0Dyryr;2026-07-13 12:11:42.446;blitz;standard;True;negras;AlexeyVT;1722;1805;7.0;victoria;resign;Grob Opening: Grob Gambit Declined
+Es6EFlHA;2026-07-13 12:28:59.813;blitz;standard;True;blancas;Ilyes04;1729;1729;6.0;victoria;resign;Caro-Kann Defense: Advance Variation
+tmqq77IU;2026-07-13 12:32:03.319;blitz;standard;True;negras;helikopteri;1735;1776;-5.0;derrota;resign;Sicilian Defense: Open
+swBjQLK6;2026-07-13 12:45:33.745;blitz;standard;True;blancas;wagnermvanelli;1730;1700;-1.0;tablas;insufficientMaterialClaim;Pirc Defense
+4Pevxuhj;2026-07-13 13:07:25.736;blitz;standard;True;blancas;davooo_1;1729;1828;7.0;victoria;resign;Sicilian Defense: Modern Variations, Main Line
+DQD1OsNp;2026-07-13 13:35:42.436;blitz;standard;True;negras;Leonid_Zelenyy;1736;1834;-4.0;derrota;resign;Nimzo-Larsen Attack: Classical Variation
+2sa7bub6;2026-07-13 13:46:18.349;blitz;standard;True;negras;RickNet;1732;1672;5.0;victoria;outoftime;King's Indian Attack: French Variation
+LhL9TRJY;2026-07-17 07:06:40.209;blitz;standard;True;negras;LeelaAlien;1737;2364;0.0;derrota;resign;Clemenz Opening
+jV15iiz3;2026-08-01 02:30:25.108;bullet;standard;True;blancas;FS-Schach;1785;2037;-11.0;derrota;resign;Caro-Kann Defense
+8F87UuE4;2026-08-06 03:36:26.535;correspondence;standard;False;blancas;neio;1942;1500;;derrota;outoftime;King's Gambit Declined: Queen's Knight Defense
+OmL0luAS;2026-08-20 01:45:55.838;blitz;standard;True;blancas;Alireza_Moazamipor;1737;1733;8.0;victoria;mate;King's Gambit Accepted: Fischer Defense
+bMPyZJKe;2026-08-20 11:02:36.562;blitz;standard;True;negras;menorquin1;1745;1762;8.0;victoria;resign;English Opening: Anglo-Indian Defense
+m6ZQc15d;2026-08-20 11:18:47.307;blitz;standard;True;blancas;mehdigheibii;1753;1757;-8.0;derrota;resign;King's Gambit Accepted: Fischer Defense
+1AZWLwNZ;2026-08-20 11:25:07.010;blitz;standard;True;negras;urbater;1745;1681;-8.0;derrota;outoftime;Sicilian Defense: Open
+tiEUjZaE;2026-08-23 07:50:08.235;blitz;standard;True;blancas;saichaitanya21;1737;1747;7.0;victoria;resign;Sicilian Defense: McDonnell Attack

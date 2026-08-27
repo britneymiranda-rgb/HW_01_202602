@@ -1,0 +1,51 @@
+﻿fila;dni;nombre;estado;motivo;segundos
+2;49364231;Chávez Castillo, Carlos;OK;OK;12.28
+3;53343768;Rodríguez Núñez, Ricardo Julio;OK;OK;7.68
+4;50434052;Mamani Herrera, Fernando;OK;OK;7.51
+5;48376941;Ríos Carrasco, Luis;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+6;55622331;Medina Sánchez, José;OK;OK;7.43
+7;51484920;Herrera Martínez, Alejandro;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+8;42154210;López Castillo, Verónica;OK;OK;7.5
+9;57775807;Ríos Torres, Milagros;OK;OK;7.51
+10;73119287;Díaz Cabrera, Gustavo;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+11;56872115;Ríos Espinoza, Manuel;OK;OK;7.75
+12;57675739;Ríos García, Alberto;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+13;75591432;Ramírez Carrasco, Patricia;OK;OK;7.92
+14;72614267;Sánchez Sánchez, Ana Teresa;OK;OK;8.18
+15;54213536;Reyes Delgado, Cecilia;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+16;44296705;Chávez Castillo, Andrés;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+17;74504433;Mamani Martínez, Andrés José;OK;OK;7.99
+18;52778193;Bravo Cárdenas, Roberto;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+19;56687044;Mamani Pérez, José;OK;OK;8.13
+20;76931706;Martínez Vásquez, Roberto;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+21;43934955;Rojas Salazar, Verónica;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+22;54609659;Vargas Medina, Eduardo;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+23;43817123;Espinoza Ramírez, Elena;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+24;78850600;Ponce Chávez, Andrés;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+25;70683821;Díaz Aguilar, Verónica Elena;OK;OK;7.88
+26;64798543;Martínez Chávez, Fiorella Sandra;OK;OK;7.8
+27;47746286;Díaz Mendoza, Sergio Miguel;OK;OK;7.41
+28;46194045;Mendoza López, Gabriela;OK;OK;7.44
+29;68701583;Vásquez Núñez, Alberto;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+30;68842498;Núñez Torres, Pilar;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+31;50371898;Núñez Cárdenas, Rosa;OK;OK;7.64
+32;47254174;Herrera Ramírez, Roberto;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+33;58696734;Salazar Mamani, Silvia Karen;OK;OK;7.65
+34;51983483;Gómez Mendoza, José;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+35;65850027;Cabrera Gómez, Teresa;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+36;61066522;Mamani Palacios, Sandra;OK;OK;7.44
+37;68215675;Díaz Vargas, Milagros;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+38;78922119;Rojas Delgado, Pablo;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+39;74591398;Sánchez Medina, Alberto;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+40;44887419;Chávez Bravo, Karen Ana;OK;OK;7.45
+41;68531078;García Pérez, Patricia;OK;OK;7.48
+42;77508841;Ríos Espinoza, Diego;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+43;58610049;Mendoza Chávez, Gabriela;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+44;49286126;Carrasco Sánchez, Gabriela;OK;OK;7.39
+45;67902136;Carrasco Ríos, Ana;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+46;66171560;Huamán Aguilar, Carlos;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+47;66095765;Guerrero Rodríguez, Silvia;INVALID_DATA;Género 'No binario' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+48;68763716;Rodríguez Sánchez, Manuel;OK;OK;7.43
+49;58673485;Mamani Paredes, María;INVALID_DATA;Género 'Prefiero no indicar' no soportado por el formulario (opciones válidas: Femenino, Masculino);0
+50;56594901;Fernández Rodríguez, Raúl Luis;OK;OK;7.65
+51;64756136;Ríos Mendoza, Pablo;OK;OK;7.64

@@ -1,0 +1,231 @@
+2026-08-26 10:53:41,387 [INFO] Configuración efectiva: {'form_url': 'https://the-paul2002.github.io/Proyecto-IA-/Homework1/', 'sheet_id': '1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs', 'sheet_gid': '0', 'headless': False, 'wait_timeout_seconds': 15, 'post_submit_timeout_seconds': 8, 'output_dir': 'output', 'chrome_binary_path': '', 'record_limit': 0, 'visual_delay_seconds': 0.4, 'pause_between_records_seconds': 1.0}
+2026-08-26 10:53:41,388 [INFO] Descargando dataset desde Google Sheets: https://docs.google.com/spreadsheets/d/1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs/export?format=csv&gid=0
+2026-08-26 10:53:42,875 [INFO] Registros leídos del dataset: 50
+2026-08-26 10:53:42,881 [INFO] Validación de datos: 24 válidos, 26 con datos inconsistentes
+2026-08-26 10:53:42,881 [INFO] ====== WebDriver manager ======
+2026-08-26 10:53:45,804 [INFO] Get LATEST chromedriver version for google-chrome
+2026-08-26 10:53:46,832 [INFO] Get LATEST chromedriver version for google-chrome
+2026-08-26 10:53:46,990 [INFO] WebDriver version 151.0.7922.138 selected
+2026-08-26 10:53:46,997 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+2026-08-26 10:53:46,997 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+2026-08-26 10:53:47,441 [INFO] Driver downloading response is 200
+2026-08-26 10:53:51,840 [INFO] Driver has been saved in cache [C:\Users\Beca1\.wdm\drivers\chromedriver\win64\151.0.7922.138]
+2026-08-26 10:53:58,179 [INFO] Procesando fila 2 — Chávez Castillo, Carlos (DNI 49364231)
+2026-08-26 10:54:04,870 [INFO] Fila 2 (DNI 49364231) registrada correctamente
+2026-08-26 10:54:05,941 [INFO] Procesando fila 3 — Rodríguez Núñez, Ricardo Julio (DNI 53343768)
+2026-08-26 10:54:12,553 [INFO] Fila 3 (DNI 53343768) registrada correctamente
+2026-08-26 10:54:13,603 [INFO] Procesando fila 4 — Mamani Herrera, Fernando (DNI 50434052)
+2026-08-26 10:54:20,059 [INFO] Fila 4 (DNI 50434052) registrada correctamente
+2026-08-26 10:54:21,110 [INFO] Procesando fila 6 — Medina Sánchez, José (DNI 55622331)
+2026-08-26 10:54:27,491 [INFO] Fila 6 (DNI 55622331) registrada correctamente
+2026-08-26 10:54:28,558 [INFO] Procesando fila 8 — López Castillo, Verónica (DNI 42154210)
+2026-08-26 10:54:34,994 [INFO] Fila 8 (DNI 42154210) registrada correctamente
+2026-08-26 10:54:36,052 [INFO] Procesando fila 9 — Ríos Torres, Milagros (DNI 57775807)
+2026-08-26 10:54:42,508 [INFO] Fila 9 (DNI 57775807) registrada correctamente
+2026-08-26 10:54:43,576 [INFO] Procesando fila 11 — Ríos Espinoza, Manuel (DNI 56872115)
+2026-08-26 10:54:50,253 [INFO] Fila 11 (DNI 56872115) registrada correctamente
+2026-08-26 10:54:51,298 [INFO] Procesando fila 13 — Ramírez Carrasco, Patricia (DNI 75591432)
+2026-08-26 10:54:58,172 [INFO] Fila 13 (DNI 75591432) registrada correctamente
+2026-08-26 10:54:59,245 [INFO] Procesando fila 14 — Sánchez Sánchez, Ana Teresa (DNI 72614267)
+2026-08-26 10:55:06,349 [INFO] Fila 14 (DNI 72614267) registrada correctamente
+2026-08-26 10:55:07,398 [INFO] Procesando fila 17 — Mamani Martínez, Andrés José (DNI 74504433)
+2026-08-26 10:55:14,343 [INFO] Fila 17 (DNI 74504433) registrada correctamente
+2026-08-26 10:55:15,407 [INFO] Procesando fila 19 — Mamani Pérez, José (DNI 56687044)
+2026-08-26 10:55:22,472 [INFO] Fila 19 (DNI 56687044) registrada correctamente
+2026-08-26 10:55:23,531 [INFO] Procesando fila 25 — Díaz Aguilar, Verónica Elena (DNI 70683821)
+2026-08-26 10:55:30,349 [INFO] Fila 25 (DNI 70683821) registrada correctamente
+2026-08-26 10:55:31,417 [INFO] Procesando fila 26 — Martínez Chávez, Fiorella Sandra (DNI 64798543)
+2026-08-26 10:55:38,146 [INFO] Fila 26 (DNI 64798543) registrada correctamente
+2026-08-26 10:55:39,208 [INFO] Procesando fila 27 — Díaz Mendoza, Sergio Miguel (DNI 47746286)
+2026-08-26 10:55:45,557 [INFO] Fila 27 (DNI 47746286) registrada correctamente
+2026-08-26 10:55:46,613 [INFO] Procesando fila 28 — Mendoza López, Gabriela (DNI 46194045)
+2026-08-26 10:55:53,000 [INFO] Fila 28 (DNI 46194045) registrada correctamente
+2026-08-26 10:55:54,056 [INFO] Procesando fila 31 — Núñez Cárdenas, Rosa (DNI 50371898)
+2026-08-26 10:56:00,636 [INFO] Fila 31 (DNI 50371898) registrada correctamente
+2026-08-26 10:56:01,703 [INFO] Procesando fila 33 — Salazar Mamani, Silvia Karen (DNI 58696734)
+2026-08-26 10:56:08,285 [INFO] Fila 33 (DNI 58696734) registrada correctamente
+2026-08-26 10:56:09,338 [INFO] Procesando fila 36 — Mamani Palacios, Sandra (DNI 61066522)
+2026-08-26 10:56:15,726 [INFO] Fila 36 (DNI 61066522) registrada correctamente
+2026-08-26 10:56:16,784 [INFO] Procesando fila 40 — Chávez Bravo, Karen Ana (DNI 44887419)
+2026-08-26 10:56:23,177 [INFO] Fila 40 (DNI 44887419) registrada correctamente
+2026-08-26 10:56:24,240 [INFO] Procesando fila 41 — García Pérez, Patricia (DNI 68531078)
+2026-08-26 10:56:30,654 [INFO] Fila 41 (DNI 68531078) registrada correctamente
+2026-08-26 10:56:31,702 [INFO] Procesando fila 44 — Carrasco Sánchez, Gabriela (DNI 49286126)
+2026-08-26 10:56:38,044 [INFO] Fila 44 (DNI 49286126) registrada correctamente
+2026-08-26 10:56:39,101 [INFO] Procesando fila 48 — Rodríguez Sánchez, Manuel (DNI 68763716)
+2026-08-26 10:56:45,472 [INFO] Fila 48 (DNI 68763716) registrada correctamente
+2026-08-26 10:56:46,540 [INFO] Procesando fila 50 — Fernández Rodríguez, Raúl Luis (DNI 56594901)
+2026-08-26 10:56:53,126 [INFO] Fila 50 (DNI 56594901) registrada correctamente
+2026-08-26 10:56:54,178 [INFO] Procesando fila 51 — Ríos Mendoza, Pablo (DNI 64756136)
+2026-08-26 10:57:00,769 [INFO] Fila 51 (DNI 64756136) registrada correctamente
+2026-08-26 10:57:03,997 [INFO] Reporte CSV generado en: C:\Users\Beca1\Documents\GitHub\Data-science-2026-II\output\reporte_registro_20260826_105703.csv
+2026-08-26 19:24:25,703 [INFO] Configuración efectiva: {'form_url': 'https://the-paul2002.github.io/Proyecto-IA-/Homework1/', 'sheet_id': '1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs', 'sheet_gid': '0', 'headless': False, 'wait_timeout_seconds': 15, 'post_submit_timeout_seconds': 8, 'output_dir': 'output', 'chrome_binary_path': '', 'record_limit': 0, 'visual_delay_seconds': 0.4, 'pause_between_records_seconds': 1.0}
+2026-08-26 19:24:25,704 [INFO] Descargando dataset desde Google Sheets: https://docs.google.com/spreadsheets/d/1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs/export?format=csv&gid=0
+2026-08-26 19:24:26,717 [INFO] Registros leídos del dataset: 50
+2026-08-26 19:24:26,724 [INFO] Validación de datos: 24 válidos, 26 con datos inconsistentes
+2026-08-26 19:24:26,725 [INFO] ====== WebDriver manager ======
+2026-08-26 19:24:28,916 [INFO] Driver [C:\Users\Beca1\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-26 19:24:31,053 [INFO] Procesando fila 2 — Chávez Castillo, Carlos (DNI 49364231)
+2026-08-26 19:24:37,972 [INFO] Fila 2 (DNI 49364231) registrada correctamente
+2026-08-26 19:24:39,043 [INFO] Procesando fila 3 — Rodríguez Núñez, Ricardo Julio (DNI 53343768)
+2026-08-26 19:24:45,866 [INFO] Fila 3 (DNI 53343768) registrada correctamente
+2026-08-26 19:24:46,946 [INFO] Procesando fila 4 — Mamani Herrera, Fernando (DNI 50434052)
+2026-08-26 19:24:53,803 [INFO] Fila 4 (DNI 50434052) registrada correctamente
+2026-08-26 19:24:54,901 [INFO] Procesando fila 6 — Medina Sánchez, José (DNI 55622331)
+2026-08-26 19:25:02,610 [INFO] Fila 6 (DNI 55622331) registrada correctamente
+2026-08-26 19:25:03,706 [INFO] Procesando fila 8 — López Castillo, Verónica (DNI 42154210)
+2026-08-26 19:25:10,986 [INFO] Fila 8 (DNI 42154210) registrada correctamente
+2026-08-26 19:25:12,131 [INFO] Procesando fila 9 — Ríos Torres, Milagros (DNI 57775807)
+2026-08-26 19:25:19,647 [INFO] Fila 9 (DNI 57775807) registrada correctamente
+2026-08-26 19:25:20,753 [INFO] Procesando fila 11 — Ríos Espinoza, Manuel (DNI 56872115)
+2026-08-26 19:25:28,054 [INFO] Fila 11 (DNI 56872115) registrada correctamente
+2026-08-26 19:25:29,154 [INFO] Procesando fila 13 — Ramírez Carrasco, Patricia (DNI 75591432)
+2026-08-26 19:25:36,728 [INFO] Fila 13 (DNI 75591432) registrada correctamente
+2026-08-26 19:25:37,812 [INFO] Procesando fila 14 — Sánchez Sánchez, Ana Teresa (DNI 72614267)
+2026-08-26 19:25:45,301 [INFO] Fila 14 (DNI 72614267) registrada correctamente
+2026-08-26 19:25:46,390 [INFO] Procesando fila 17 — Mamani Martínez, Andrés José (DNI 74504433)
+2026-08-26 19:25:54,621 [INFO] Fila 17 (DNI 74504433) registrada correctamente
+2026-08-26 19:25:55,715 [INFO] Procesando fila 19 — Mamani Pérez, José (DNI 56687044)
+2026-08-26 19:26:03,168 [INFO] Fila 19 (DNI 56687044) registrada correctamente
+2026-08-26 19:26:04,234 [INFO] Procesando fila 25 — Díaz Aguilar, Verónica Elena (DNI 70683821)
+2026-08-26 19:26:11,530 [INFO] Fila 25 (DNI 70683821) registrada correctamente
+2026-08-26 19:26:12,620 [INFO] Procesando fila 26 — Martínez Chávez, Fiorella Sandra (DNI 64798543)
+2026-08-26 19:26:19,840 [INFO] Fila 26 (DNI 64798543) registrada correctamente
+2026-08-26 19:26:20,906 [INFO] Procesando fila 27 — Díaz Mendoza, Sergio Miguel (DNI 47746286)
+2026-08-26 19:26:28,046 [INFO] Fila 27 (DNI 47746286) registrada correctamente
+2026-08-26 19:26:29,134 [INFO] Procesando fila 28 — Mendoza López, Gabriela (DNI 46194045)
+2026-08-26 19:26:36,534 [INFO] Fila 28 (DNI 46194045) registrada correctamente
+2026-08-26 19:26:37,614 [INFO] Procesando fila 31 — Núñez Cárdenas, Rosa (DNI 50371898)
+2026-08-26 19:26:44,652 [INFO] Fila 31 (DNI 50371898) registrada correctamente
+2026-08-26 19:26:45,728 [INFO] Procesando fila 33 — Salazar Mamani, Silvia Karen (DNI 58696734)
+2026-08-26 19:26:52,688 [INFO] Fila 33 (DNI 58696734) registrada correctamente
+2026-08-26 19:26:53,755 [INFO] Procesando fila 36 — Mamani Palacios, Sandra (DNI 61066522)
+2026-08-26 19:27:01,204 [INFO] Fila 36 (DNI 61066522) registrada correctamente
+2026-08-26 19:27:02,302 [INFO] Procesando fila 40 — Chávez Bravo, Karen Ana (DNI 44887419)
+2026-08-26 19:27:10,520 [INFO] Fila 40 (DNI 44887419) registrada correctamente
+2026-08-26 19:27:11,599 [INFO] Procesando fila 41 — García Pérez, Patricia (DNI 68531078)
+2026-08-26 19:27:18,882 [INFO] Fila 41 (DNI 68531078) registrada correctamente
+2026-08-26 19:27:19,958 [INFO] Procesando fila 44 — Carrasco Sánchez, Gabriela (DNI 49286126)
+2026-08-26 19:27:27,291 [INFO] Fila 44 (DNI 49286126) registrada correctamente
+2026-08-26 19:27:28,369 [INFO] Procesando fila 48 — Rodríguez Sánchez, Manuel (DNI 68763716)
+2026-08-26 19:27:35,943 [INFO] Fila 48 (DNI 68763716) registrada correctamente
+2026-08-26 19:27:37,032 [INFO] Procesando fila 50 — Fernández Rodríguez, Raúl Luis (DNI 56594901)
+2026-08-26 19:27:44,708 [INFO] Fila 50 (DNI 56594901) registrada correctamente
+2026-08-26 19:27:45,790 [INFO] Procesando fila 51 — Ríos Mendoza, Pablo (DNI 64756136)
+2026-08-26 19:27:53,383 [INFO] Fila 51 (DNI 64756136) registrada correctamente
+2026-08-26 19:27:56,888 [INFO] Reporte CSV generado en: C:\Users\Beca1\Documents\GitHub\Data-science-2026-II\output\reporte_registro_20260826_192756.csv
+2026-08-26 20:45:29,053 [INFO] Configuración efectiva: {'form_url': 'https://the-paul2002.github.io/Proyecto-IA-/Homework1/', 'sheet_id': '1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs', 'sheet_gid': '0', 'headless': False, 'wait_timeout_seconds': 15, 'post_submit_timeout_seconds': 8, 'output_dir': 'output', 'chrome_binary_path': '', 'record_limit': 0, 'visual_delay_seconds': 0.4, 'pause_between_records_seconds': 1.0}
+2026-08-26 20:45:29,056 [INFO] Descargando dataset desde Google Sheets: https://docs.google.com/spreadsheets/d/1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs/export?format=csv&gid=0
+2026-08-26 20:45:29,959 [INFO] Registros leídos del dataset: 50
+2026-08-26 20:45:29,965 [INFO] Validación de datos: 24 válidos, 26 con datos inconsistentes
+2026-08-26 20:45:29,965 [INFO] ====== WebDriver manager ======
+2026-08-26 20:45:32,453 [INFO] Driver [C:\Users\Beca1\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-26 20:45:35,488 [INFO] Procesando fila 2 — Chávez Castillo, Carlos (DNI 49364231)
+2026-08-26 20:45:42,982 [INFO] Fila 2 (DNI 49364231) registrada correctamente
+2026-08-26 20:45:44,049 [INFO] Procesando fila 3 — Rodríguez Núñez, Ricardo Julio (DNI 53343768)
+2026-08-26 20:45:51,530 [INFO] Fila 3 (DNI 53343768) registrada correctamente
+2026-08-26 20:45:52,622 [INFO] Procesando fila 4 — Mamani Herrera, Fernando (DNI 50434052)
+2026-08-26 20:46:01,068 [INFO] Fila 4 (DNI 50434052) registrada correctamente
+2026-08-26 20:46:02,148 [INFO] Procesando fila 6 — Medina Sánchez, José (DNI 55622331)
+2026-08-26 20:46:15,464 [INFO] Fila 6 (DNI 55622331) registrada correctamente
+2026-08-26 20:46:16,572 [INFO] Procesando fila 8 — López Castillo, Verónica (DNI 42154210)
+2026-08-26 20:46:24,332 [INFO] Fila 8 (DNI 42154210) registrada correctamente
+2026-08-26 20:46:25,417 [INFO] Procesando fila 9 — Ríos Torres, Milagros (DNI 57775807)
+2026-08-26 20:46:32,570 [INFO] Fila 9 (DNI 57775807) registrada correctamente
+2026-08-26 20:46:33,654 [INFO] Procesando fila 11 — Ríos Espinoza, Manuel (DNI 56872115)
+2026-08-26 20:46:40,702 [INFO] Fila 11 (DNI 56872115) registrada correctamente
+2026-08-26 20:46:41,796 [INFO] Procesando fila 13 — Ramírez Carrasco, Patricia (DNI 75591432)
+2026-08-26 20:46:49,092 [INFO] Fila 13 (DNI 75591432) registrada correctamente
+2026-08-26 20:46:50,192 [INFO] Procesando fila 14 — Sánchez Sánchez, Ana Teresa (DNI 72614267)
+2026-08-26 20:46:58,229 [INFO] Fila 14 (DNI 72614267) registrada correctamente
+2026-08-26 20:46:59,331 [INFO] Procesando fila 17 — Mamani Martínez, Andrés José (DNI 74504433)
+2026-08-26 20:47:07,137 [INFO] Fila 17 (DNI 74504433) registrada correctamente
+2026-08-26 20:47:08,226 [INFO] Procesando fila 19 — Mamani Pérez, José (DNI 56687044)
+2026-08-26 20:47:15,361 [INFO] Fila 19 (DNI 56687044) registrada correctamente
+2026-08-26 20:47:16,459 [INFO] Procesando fila 25 — Díaz Aguilar, Verónica Elena (DNI 70683821)
+2026-08-26 20:47:23,597 [INFO] Fila 25 (DNI 70683821) registrada correctamente
+2026-08-26 20:47:24,684 [INFO] Procesando fila 26 — Martínez Chávez, Fiorella Sandra (DNI 64798543)
+2026-08-26 20:47:31,893 [INFO] Fila 26 (DNI 64798543) registrada correctamente
+2026-08-26 20:47:32,981 [INFO] Procesando fila 27 — Díaz Mendoza, Sergio Miguel (DNI 47746286)
+2026-08-26 20:47:39,806 [INFO] Fila 27 (DNI 47746286) registrada correctamente
+2026-08-26 20:47:40,894 [INFO] Procesando fila 28 — Mendoza López, Gabriela (DNI 46194045)
+2026-08-26 20:47:48,226 [INFO] Fila 28 (DNI 46194045) registrada correctamente
+2026-08-26 20:47:49,341 [INFO] Procesando fila 31 — Núñez Cárdenas, Rosa (DNI 50371898)
+2026-08-26 20:47:56,789 [INFO] Fila 31 (DNI 50371898) registrada correctamente
+2026-08-26 20:47:57,901 [INFO] Procesando fila 33 — Salazar Mamani, Silvia Karen (DNI 58696734)
+2026-08-26 20:48:05,657 [INFO] Fila 33 (DNI 58696734) registrada correctamente
+2026-08-26 20:48:06,757 [INFO] Procesando fila 36 — Mamani Palacios, Sandra (DNI 61066522)
+2026-08-26 20:48:13,805 [INFO] Fila 36 (DNI 61066522) registrada correctamente
+2026-08-26 20:48:14,939 [INFO] Procesando fila 40 — Chávez Bravo, Karen Ana (DNI 44887419)
+2026-08-26 20:48:22,125 [INFO] Fila 40 (DNI 44887419) registrada correctamente
+2026-08-26 20:48:23,217 [INFO] Procesando fila 41 — García Pérez, Patricia (DNI 68531078)
+2026-08-26 20:48:30,907 [INFO] Fila 41 (DNI 68531078) registrada correctamente
+2026-08-26 20:48:32,039 [INFO] Procesando fila 44 — Carrasco Sánchez, Gabriela (DNI 49286126)
+2026-08-26 20:48:39,374 [INFO] Fila 44 (DNI 49286126) registrada correctamente
+2026-08-26 20:48:40,522 [INFO] Procesando fila 48 — Rodríguez Sánchez, Manuel (DNI 68763716)
+2026-08-26 20:48:47,783 [INFO] Fila 48 (DNI 68763716) registrada correctamente
+2026-08-26 20:48:48,991 [INFO] Procesando fila 50 — Fernández Rodríguez, Raúl Luis (DNI 56594901)
+2026-08-26 20:48:56,048 [INFO] Fila 50 (DNI 56594901) registrada correctamente
+2026-08-26 20:48:57,190 [INFO] Procesando fila 51 — Ríos Mendoza, Pablo (DNI 64756136)
+2026-08-26 20:49:05,314 [INFO] Fila 51 (DNI 64756136) registrada correctamente
+2026-08-26 20:49:08,802 [INFO] Reporte CSV generado en: C:\Users\Beca1\Documents\GitHub\Data-science-2026-II\output\reporte_registro_20260826_204908.csv
+2026-08-26 20:51:08,793 [INFO] Configuración efectiva: {'form_url': 'https://the-paul2002.github.io/Proyecto-IA-/Homework1/', 'sheet_id': '1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs', 'sheet_gid': '0', 'headless': False, 'wait_timeout_seconds': 15, 'post_submit_timeout_seconds': 8, 'output_dir': 'output', 'chrome_binary_path': '', 'record_limit': 0, 'visual_delay_seconds': 0.4, 'pause_between_records_seconds': 1.0}
+2026-08-26 20:51:08,793 [INFO] Descargando dataset desde Google Sheets: https://docs.google.com/spreadsheets/d/1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs/export?format=csv&gid=0
+2026-08-26 20:51:09,581 [INFO] Registros leídos del dataset: 50
+2026-08-26 20:51:09,586 [INFO] Validación de datos: 24 válidos, 26 con datos inconsistentes
+2026-08-26 20:51:09,586 [INFO] ====== WebDriver manager ======
+2026-08-26 20:51:18,288 [INFO] Configuración efectiva: {'form_url': 'https://the-paul2002.github.io/Proyecto-IA-/Homework1/', 'sheet_id': '1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs', 'sheet_gid': '0', 'headless': False, 'wait_timeout_seconds': 15, 'post_submit_timeout_seconds': 8, 'output_dir': 'output', 'chrome_binary_path': '', 'record_limit': 0, 'visual_delay_seconds': 0.4, 'pause_between_records_seconds': 1.0}
+2026-08-26 20:51:18,289 [INFO] Descargando dataset desde Google Sheets: https://docs.google.com/spreadsheets/d/1EjaoSJKdzdUBNF3XJZuTlxA21D-0vy0wkGaMR8wHVgs/export?format=csv&gid=0
+2026-08-26 20:51:19,135 [INFO] Registros leídos del dataset: 50
+2026-08-26 20:51:19,141 [INFO] Validación de datos: 24 válidos, 26 con datos inconsistentes
+2026-08-26 20:51:19,142 [INFO] ====== WebDriver manager ======
+2026-08-26 20:51:20,931 [INFO] Driver [C:\Users\Beca1\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-26 20:51:23,650 [INFO] Procesando fila 2 — Chávez Castillo, Carlos (DNI 49364231)
+2026-08-26 20:51:30,747 [INFO] Fila 2 (DNI 49364231) registrada correctamente
+2026-08-26 20:51:31,844 [INFO] Procesando fila 3 — Rodríguez Núñez, Ricardo Julio (DNI 53343768)
+2026-08-26 20:51:38,897 [INFO] Fila 3 (DNI 53343768) registrada correctamente
+2026-08-26 20:51:40,009 [INFO] Procesando fila 4 — Mamani Herrera, Fernando (DNI 50434052)
+2026-08-26 20:51:47,225 [INFO] Fila 4 (DNI 50434052) registrada correctamente
+2026-08-26 20:51:48,301 [INFO] Procesando fila 6 — Medina Sánchez, José (DNI 55622331)
+2026-08-26 20:51:55,493 [INFO] Fila 6 (DNI 55622331) registrada correctamente
+2026-08-26 20:51:56,673 [INFO] Procesando fila 8 — López Castillo, Verónica (DNI 42154210)
+2026-08-26 20:52:04,769 [INFO] Fila 8 (DNI 42154210) registrada correctamente
+2026-08-26 20:52:05,848 [INFO] Procesando fila 9 — Ríos Torres, Milagros (DNI 57775807)
+2026-08-26 20:52:13,087 [INFO] Fila 9 (DNI 57775807) registrada correctamente
+2026-08-26 20:52:14,166 [INFO] Procesando fila 11 — Ríos Espinoza, Manuel (DNI 56872115)
+2026-08-26 20:52:20,937 [INFO] Fila 11 (DNI 56872115) registrada correctamente
+2026-08-26 20:52:22,017 [INFO] Procesando fila 13 — Ramírez Carrasco, Patricia (DNI 75591432)
+2026-08-26 20:52:29,167 [INFO] Fila 13 (DNI 75591432) registrada correctamente
+2026-08-26 20:52:30,238 [INFO] Procesando fila 14 — Sánchez Sánchez, Ana Teresa (DNI 72614267)
+2026-08-26 20:52:37,136 [INFO] Fila 14 (DNI 72614267) registrada correctamente
+2026-08-26 20:52:38,205 [INFO] Procesando fila 17 — Mamani Martínez, Andrés José (DNI 74504433)
+2026-08-26 20:52:45,050 [INFO] Fila 17 (DNI 74504433) registrada correctamente
+2026-08-26 20:52:46,137 [INFO] Procesando fila 19 — Mamani Pérez, José (DNI 56687044)
+2026-08-26 20:52:52,991 [INFO] Fila 19 (DNI 56687044) registrada correctamente
+2026-08-26 20:52:54,060 [INFO] Procesando fila 25 — Díaz Aguilar, Verónica Elena (DNI 70683821)
+2026-08-26 20:53:01,652 [INFO] Fila 25 (DNI 70683821) registrada correctamente
+2026-08-26 20:53:02,764 [INFO] Procesando fila 26 — Martínez Chávez, Fiorella Sandra (DNI 64798543)
+2026-08-26 20:53:09,833 [INFO] Fila 26 (DNI 64798543) registrada correctamente
+2026-08-26 20:53:10,917 [INFO] Procesando fila 27 — Díaz Mendoza, Sergio Miguel (DNI 47746286)
+2026-08-26 20:53:18,083 [INFO] Fila 27 (DNI 47746286) registrada correctamente
+2026-08-26 20:53:19,163 [INFO] Procesando fila 28 — Mendoza López, Gabriela (DNI 46194045)
+2026-08-26 20:53:25,994 [INFO] Fila 28 (DNI 46194045) registrada correctamente
+2026-08-26 20:53:27,075 [INFO] Procesando fila 31 — Núñez Cárdenas, Rosa (DNI 50371898)
+2026-08-26 20:53:33,940 [INFO] Fila 31 (DNI 50371898) registrada correctamente
+2026-08-26 20:53:35,042 [INFO] Procesando fila 33 — Salazar Mamani, Silvia Karen (DNI 58696734)
+2026-08-26 20:53:42,248 [INFO] Fila 33 (DNI 58696734) registrada correctamente
+2026-08-26 20:53:43,324 [INFO] Procesando fila 36 — Mamani Palacios, Sandra (DNI 61066522)
+2026-08-26 20:53:50,302 [INFO] Fila 36 (DNI 61066522) registrada correctamente
+2026-08-26 20:53:51,383 [INFO] Procesando fila 40 — Chávez Bravo, Karen Ana (DNI 44887419)
+2026-08-26 20:53:58,823 [INFO] Fila 40 (DNI 44887419) registrada correctamente
+2026-08-26 20:53:59,929 [INFO] Procesando fila 41 — García Pérez, Patricia (DNI 68531078)
+2026-08-26 20:54:08,641 [INFO] Fila 41 (DNI 68531078) registrada correctamente
+2026-08-26 20:54:09,733 [INFO] Procesando fila 44 — Carrasco Sánchez, Gabriela (DNI 49286126)
+2026-08-26 20:54:16,684 [INFO] Fila 44 (DNI 49286126) registrada correctamente
+2026-08-26 20:54:17,769 [INFO] Procesando fila 48 — Rodríguez Sánchez, Manuel (DNI 68763716)
+2026-08-26 20:54:25,626 [INFO] Fila 48 (DNI 68763716) registrada correctamente
+2026-08-26 20:54:26,720 [INFO] Procesando fila 50 — Fernández Rodríguez, Raúl Luis (DNI 56594901)
+2026-08-26 20:54:34,324 [INFO] Fila 50 (DNI 56594901) registrada correctamente
+2026-08-26 20:54:35,382 [INFO] Procesando fila 51 — Ríos Mendoza, Pablo (DNI 64756136)
+2026-08-26 20:54:42,492 [INFO] Fila 51 (DNI 64756136) registrada correctamente
+2026-08-26 20:54:45,789 [INFO] Reporte CSV generado en: C:\Users\Beca1\Documents\GitHub\Data-science-2026-II\output\reporte_registro_20260826_205445.csv
